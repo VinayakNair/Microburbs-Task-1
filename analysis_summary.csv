@@ -1,0 +1,9 @@
+Metric,Value
+Total Transactions Analyzed,"5,559"
+Date Range,2002-12-19 to 2025-07-03
+Average Hedonic Residual,"$-66,758"
+Average Residual Percentage,-3.23%
+Correlation (Actual vs Predicted),0.873
+Undervalued Properties (< -10%),"2,386 (42.9%)"
+Overvalued Properties (> +10%),"1,308 (23.5%)"
+High-Value Opportunities (Score ≥ 60),"2,832 (50.9%)"
