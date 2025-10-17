@@ -6,13 +6,13 @@ Which task did you attempt?
 1. Real estate metric ✓
 
 Provide a private URL for a repository/Google Collab/ipynb host shared with david@microburbs.com.au
-[Repository would be hosted on private GitHub/Bitbucket and shared with david@microburbs.com.au]
+Repository URL: https://github.com/VinayakNair/Microburbs-Task-1.git (shared with david@microburbs.com.au)
 
 Paste the code here. Don't worry about formatting.
 [Code provided in hedonic_residual_analysis.py and property_investment_metric.ipynb]
 
 Provide a public URL of a self-explanatory screenshot that best showcases what your code does.
-[Screenshot URL: hedonic_residual_analysis.png visualization showing residual distribution, price correlation, investment scores, and suburb analysis]
+Screenshot URL: https://github.com/VinayakNair/Microburbs-Task-1/blob/main/hedonic_residual_analysis.png
 
 How have you approached the task, including any pivots you made and learnings along the way. (40 words max.)
 Started with hedonic residual analysis using existing hedonic prices in dataset. Created investment scoring system from -50% to +60% residuals. Developed suburb-level analysis to identify geographic patterns. Focused on practical investor applications rather than academic metrics.
